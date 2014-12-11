@@ -31,6 +31,7 @@
     
 }
 - (IBAction)dsfsf:(id)sender {
+    NSString *po;
 }
 
 - (IBAction)yhuf:(id)sender {
