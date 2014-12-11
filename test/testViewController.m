@@ -31,9 +31,9 @@
     
 }
 - (IBAction)dsfsf:(id)sender {
-    NSString *po;
-    po=@"halloooo";
-}
+    NSString *tes;
+    tes=@"makan";
+    }
 
 - (IBAction)yhuf:(id)sender {
 }
