@@ -33,6 +33,9 @@
 - (IBAction)dsfsf:(id)sender {
     NSString *tes;
     tes=@"makan";
+    
+    int a=9;
+    
     }
 
 - (IBAction)yhuf:(id)sender {
